@@ -12,3 +12,5 @@ thank you and goodnight
 sorry what are staged vs commiting, i'm just clicking without understanding lmao
 
 need fi learn how to work with Java in this VSCode because wtheck??
+
+but why must we click so much just to connect them lmao
